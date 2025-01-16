@@ -1,5 +1,5 @@
-# Iris
-Investment Calculator
+# [Iris Investment Calculator](https://elkmire.github.io/Iris/)
+click here^
 
 ## Overview
 Iris is a comprehensive investment calculator designed to help users project long-term investment growth and plan for retirement. It combines traditional investment calculations with advanced metrics and real-world factors like inflation, fees, and withdrawal sustainability.
